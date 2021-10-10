@@ -1,0 +1,17 @@
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.exe
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.deps.json
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.json
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.runtimeconfig.dev.json
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.dll
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\bin\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.AssemblyReference.cache
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Form1.resources
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.GenerateResource.cache
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfoInputs.cache
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.AssemblyInfo.cs
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.csproj.CoreCompileInputs.cache
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.dll
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.pdb
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.genruntimeconfig.cache
+C:\Users\SAPPHİRE\Source\Repos\Proje\Proje\obj\Debug\netcoreapp3.1\Proje.Properties.Resources.resources
